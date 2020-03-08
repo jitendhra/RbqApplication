@@ -148,7 +148,7 @@ div.content {
                             <th>Action</th>
                           </tr>
                         </thead>
-                        <tbody>
+                       <!--  <tbody>
                           {{#each results}}
                           <tr>
                             <td>{{ floors }}</td>
@@ -192,7 +192,7 @@ div.content {
                             </td>
                           </tr>
                           {{/each}}
-                        </tbody>
+                        </tbody> -->
                       </table>
 
   	                 <!-- Add New Product Modal-->

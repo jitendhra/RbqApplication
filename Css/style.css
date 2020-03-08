@@ -1,8 +1,7 @@
 body {
     color: #fff;
     font-family: "Comfortaa";
-   
-      background:url(img/rbg.jpg)no-repeat center center fixed; 
+    background:url(img/rbg.jpeg)no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
