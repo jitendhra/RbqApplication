@@ -40,9 +40,9 @@
         <?php
 		if (isset($_POST['login']))
 			{
-                                $fullname = mysqli_real_escape_string($con, $_POST['name']);
-                                $username = mysqli_real_escape_string($con, $_POST['username']);
-                                $emailid = mysqli_real_escape_string($con, $_POST['emailid']);
+                $fullname = mysqli_real_escape_string($con, $_POST['name']);
+                $username = mysqli_real_escape_string($con, $_POST['username']);
+                $emailid = mysqli_real_escape_string($con, $_POST['emailid']);
 				$password = mysqli_real_escape_string($con, $_POST['password']);
 				
 				$query 		= mysqli_query($con, "insert into users (fullname,username,emailid,password) values('$fullname','$username','$emailid','$password')");
