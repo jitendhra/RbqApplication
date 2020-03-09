@@ -4,7 +4,7 @@
 <head>
 	<title>RbqApplication</title>
 	<link rel="ICON" href="img/ICon (2).ico"/>
-	<link rel="stylesheet" type="text/css" href="Css/style.css">
+	<link rel="stylesheet" type="text/css" href="Css/main.css">
 	<link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
 </head>
 <body>
