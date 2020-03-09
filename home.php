@@ -1,9 +1,6 @@
-<?php 
+<!-- <?php 
 include('dbcon.php');
 include('session.php'); 
-
-$result=mysqli_query($con, "select * from users where user_id='$session_id'")or die('Error In Session');
-$row=mysqli_fetch_array($result);
 
  ?>
 
@@ -110,4 +107,4 @@ div.content {
     <footer class="text-center card-footer fixed-bottom">
         <p>&copy SPDesignStudio,Dubai</p>
     </footer>
-</html>
+</html> -->
