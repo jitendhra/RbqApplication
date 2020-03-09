@@ -95,7 +95,7 @@ div.content {
 </div>
   <div class="box fixed-top" style="margin-left: 13em; margin-top: 6em; ">
   <select id="LoadProject" class="fixed-top-left" style="width: 10em;"></select>
-  <input type="button" value="Load" onClick="search();">
+  <input type="button" class="btn btn-success" style="background: grey" value="Load" onClick="search();">
   <input type="text" style="width: 10em;" placeholder="ProjectName" readonly>
     <input type="text" style="width: 10em;" placeholder="LastUpdatedOn" readonly>
     <input type="text" style="width: 10em;" placeholder="User" readonly>

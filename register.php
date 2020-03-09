@@ -18,11 +18,11 @@
         <h3>Register here</h3>
         <div class="form-item">
         <label for="usrNameRegister">Fullname:</label>
-        <input type="text" name="name" required="required" placeholder="FullName" autofocus required autocomplete="name"></input>
+        <input type="user" name="name" required="required" placeholder="FullName" autofocus required autocomplete="name"></input>
         </div>
         <div class="form-item">
         <label for="usrNameRegister">Username:</label>
-        <input type="text" class="form-control" id="username" placeholder="UserName" name="username" autocomplete="username">
+        <input type="user" class="form-control" id="username" placeholder="UserName" name="username" autocomplete="username">
         </div>
         <div class="form-item">
         <label for="email">Email address:</label>

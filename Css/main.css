@@ -59,7 +59,7 @@ body {
         background: whitesmoke url("img/pass.jpg") no-repeat;
         background-position: 10px 50%;
     }
-    input[type='text']{
+    input[type='user']{
         background: whitesmoke url("img/user.jpg") no-repeat;
         background-position: 10px 50%;
     }

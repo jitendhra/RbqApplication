@@ -108,9 +108,9 @@ div.content {
                           <label for="email"><b>Email</b></label><br>
                           <input type="text" placeholder="Enter Email" name="email" required><br>
                           <label for="psw"><b>Password</b></label><br>
-                          <input type="password" placeholder="Enter Password" name="psw" required><br>
+                          <input type="text" placeholder="Enter Password" name="psw" required><br>
                           <label for="psw-repeat"><b>RepeatPassword</b></label><br>
-                          <input type="password" placeholder="Repeat Password" name="psw-repeat" required><br><br>
+                          <input type="text" placeholder="Repeat Password" name="psw-repeat" required><br><br>
                           <button type="submit" class="btn btn-success">Update</button>
                        </div> 
                        <!--  <hr>

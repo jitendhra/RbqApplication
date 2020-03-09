@@ -19,7 +19,7 @@
 		<h3>Login here</h3>
 		
 		<div class="form-item">
-			<input type="text" name="user" required="required" placeholder="Username/emailid" autofocus required></input>
+			<input type="user" name="user" required="required" placeholder="Username/emailid" autofocus required></input>
 		</div>
 		
 		<div class="form-item">
