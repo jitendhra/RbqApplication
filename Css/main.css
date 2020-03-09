@@ -457,6 +457,7 @@ body {
 .card {
   border-radius: 20;
   box-shadow: none;
+  color: #EFF3F6;
 }
 
 
@@ -508,7 +509,7 @@ body {
 .card.card-black {
     background: #000000;
     cursor: move;
-    z-index: 9;
+    z-index: 10;
   }
   
   .card.card-blue {
