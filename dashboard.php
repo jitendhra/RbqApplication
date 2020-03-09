@@ -22,7 +22,8 @@ $row=mysqli_fetch_array($result);
 body {
   margin: 0;
   font-family: "Comfortaa";
-  color: #ffffffff;
+  color: #555;
+  background: whitesmoke;
   image-orientation: unset;
 }
 

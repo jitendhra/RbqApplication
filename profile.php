@@ -23,6 +23,7 @@ body {
   margin: 0;
   font-family: "Comfortaa";
   color: #555;
+  background: whitesmoke;
   image-orientation: unset;
 }
 

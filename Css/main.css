@@ -167,8 +167,9 @@ body {
   }
 
 
-html, body, .wrapper {
+html, .wrapper {
   width: 100%;
+  background: #EFF3F6;
 }
 
 
