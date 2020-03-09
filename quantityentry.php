@@ -13,7 +13,7 @@ $row=mysqli_fetch_array($result);
     <meta http-equiv="x-ua-compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>RbqApplication</title>
-    <link rel="ICON" href="img/ICon (2).ico"/>
+    <link rel="ICON" href="Css/img/ICon (2).ico"/>
     <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -275,9 +275,23 @@ div.content {
                     </div>
                   </div>
               </form>
+              <!--Pagination-->
+              <ul class="pagination">
+                <li><a href="#">Previous</a></li>
+                 &nbsp;
+                <li><a href="#">1</a></li>
+                &nbsp;
+                <li><a href="#">2</a></li>
+                &nbsp;
+                <li><a href="#">3</a></li>
+                &nbsp;
+                <li><a href="#">4</a></li>
+                &nbsp;
+                <li><a href="#">5</a></li>
+                &nbsp;
+                <li><a href="#">Next</a></li>
+              </ul>
         </section> 
-        <script src="/assets/js/jquery-3.3.1.js"></script>
-        <script src="/assets/js/bootstrap.js"></script>
         <script>
           
         </script>

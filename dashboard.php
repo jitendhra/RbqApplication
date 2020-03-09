@@ -12,7 +12,7 @@ $row=mysqli_fetch_array($result);
     <meta http-equiv="x-ua-compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>RbqApplication</title>
-    <link rel="ICON" href="img/ICon (2).ico"/>
+    <link rel="ICON" href="Css/img/ICon (2).ico"/>
     <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
