@@ -11,7 +11,7 @@
 	<!-- /**Header label and Image */ -->
 		<a href="index.php"><img src="img/SP Logo.png" /></a>
 		   <div class="row">
-			<h2 class="text-center" style="color:white";><b><br><h2>Design Studio</b><br>RBQ Application</h2></h2>
+			<h2 class="text-center" style="color:white"><b><br><h2>Design Studio</b><br>RBQ Application</h2></h2>
 		 </div>
 	<!-- Login Panel-->
 	<div class="form-wrapper" style="height: 25em;"><br>
@@ -53,7 +53,7 @@
 			}
 	?>
 	<div class="reminder">
-		<p>Not a member? <a href="register.php">Sign up now</a></p>
+		<p>Not a member? <a href="register.php">Sign up now</a></p><br>
 		<p><a href="#">Forgot password?</a></p>
 	</div>
 	
